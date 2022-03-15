@@ -1,6 +1,6 @@
 from bot import ComfyMemerBot
 
-TOKEN = "MY_TOKEN"
+TOKEN = "My_Token"
 API ="https://meme-api.herokuapp.com/gimme"
 
 if __name__=="__main__":
