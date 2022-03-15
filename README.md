@@ -15,11 +15,12 @@ The bot will support the following commands and messages:
 <br>
 any message containing 'meme' in it - returns one random meme
 <br>
-
-DO BE IMPLEMENTED
-<br>
+  <br>
 /broadcast <MESSAGE> - send a message to all the users who are using the bot
   <br>
+
+TO BE IMPLEMENTED
+
 subsribe me to memes <MINUTES> - subscribes the user to recieve one random meme every X minutes
   <br>
 unsubscribe me - unsubscribes the user
